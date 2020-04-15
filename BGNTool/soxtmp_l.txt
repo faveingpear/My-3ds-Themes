@@ -1,0 +1,30 @@
+
+Header size: 96 bytes
+
+Sample     : 'Z:\tmp\soxtmp_l.wav'
+Length     : 2546887 samples
+Num nibbles: 2910729 ADPCM nibbles
+Sample Rate: 11600 Hz
+Loop Flag  : LOOPED
+
+Start Addr : 0x00000002 + ARAM_offset (ADPCM nibble mode)
+End Addr   : 0x00A8D9B8 + ARAM_offset (ADPCM nibble mode)
+Curr Addr  : 0x00000002 + ARAM_offset (ADPCM nibble mode)
+
+a1[0]: 0x0299 a2[0]: 0xFFFB 
+a1[1]: 0x095F a2[1]: 0xFBDE 
+a1[2]: 0x0579 a2[2]: 0x00FC 
+a1[3]: 0x0B85 a2[3]: 0xFBE7 
+a1[4]: 0x062C a2[4]: 0xFE50 
+a1[5]: 0x0A66 a2[5]: 0xFC70 
+a1[6]: 0x07D0 a2[6]: 0xFF92 
+a1[7]: 0x0CA1 a2[7]: 0xFB2B 
+
+Gain      : 0x0000
+Pred/Scale: 0x0000
+y[n-1]    : 0x0000
+y[n-2]    : 0x0000
+
+Loop Pred/Scale: 0x0000
+Loop y[n-1]    : 0x0000
+Loop y[n-2]    : 0x0000
